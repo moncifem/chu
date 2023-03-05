@@ -3,11 +3,6 @@
 
 A small squelette app for chu project
 
-## Authors
-
-- [@moncif](https://github.com/moncifem)
-
-
 ## Tech Stack
 
 **Server:** Java, Spring Boot, Spring Data
@@ -39,3 +34,17 @@ Start the server
   mvn package
 ```
 and run the .jar /target directory
+## Authors
+
+- [@moncif](https://github.com/moncifem)
+
+
+## Acknowledgements
+
+ - [AmigosCode](https://www.youtube.com/@amigoscode)
+ - [Spring.io](https://spring.io/)
+ - [Baeldung](https://www.baeldung.com/)
+
+
+#### Enjoy!
+
