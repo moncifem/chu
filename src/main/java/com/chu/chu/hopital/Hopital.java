@@ -5,6 +5,11 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+/*
+* Squellete CHU
+* @Author Moncif
+* @todo lire les commentaires de entite=>repository=>servive=>controller
+ */
 @Entity
 //L'annotation @Entity=>Spring va considerer que cette class va devenir une entite en BD
 //Comme toute table a besoin d'un id, on doit l'ajouter
