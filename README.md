@@ -46,5 +46,12 @@ and run the .jar /target directory
  - [Baeldung](https://www.baeldung.com/)
 
 
+## Demo
+
+Import the CHU.postman_collection.json into postman and send the requests.
+
+The project works on an in memory database, no need to setup the application properties,just run it.
+
+
 #### Enjoy!
 
